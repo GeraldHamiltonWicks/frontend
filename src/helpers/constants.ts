@@ -1,0 +1,1 @@
+export const MAX_OF_THUMBNAILS = 4;
